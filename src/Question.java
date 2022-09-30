@@ -4,7 +4,7 @@ class Question {
     // 1 = multiple choice question, 2 = single choice question
     private int type;
 
-    // Stores question's String text (for any potential future usage)
+    // Stores question's String text
     private String questionText;
 
     // Stores answers to questions of both types
